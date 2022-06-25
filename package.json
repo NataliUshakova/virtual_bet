@@ -1,0 +1,29 @@
+{
+  "name": "virtual_bet",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "predeploy": "npm run build --public-url ././src/index.html --dist-dir build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NataliUshakova/virtual_bet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NataliUshakova/virtual_bet/issues"
+  },
+  "homepage": "https://github.com/NataliUshakova/virtual_bet#readme",
+  "dependencies": {
+    "@parcel/transformer-posthtml": "^2.6.2",
+    "parcel": "^2.6.2",
+    "posthtml-include": "^1.7.4"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.2",
+    "posthtml-obfuscate": "^0.1.5"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,OAAO,CAAC,gDAAI,CASZ,AAAA,IAAI,AAAA,CACA,WAAW,CAAE,YAAY,CAC5B",
+    "sources": [
+        "../../src/sass/base/vars.scss"
+    ],
+    "names": [],
+    "file": "vars.min.css"
+}

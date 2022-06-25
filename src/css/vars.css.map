@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,OAAO,CAAC,gDAAI;AASZ,AAAA,IAAI,CAAA;EACA,WAAW,EAAE,YAAY;CAC5B",
+    "sources": [
+        "../sass/base/vars.scss"
+    ],
+    "names": [],
+    "file": "vars.css"
+}
