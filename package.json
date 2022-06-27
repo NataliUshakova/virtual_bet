@@ -24,6 +24,7 @@
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.2",
+    "gh-pages": "^4.0.0",
     "posthtml-obfuscate": "^0.1.5"
   }
 }
