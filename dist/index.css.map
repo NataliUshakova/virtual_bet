@@ -1,1 +1,0 @@
-{"mappings":";AEEI;;;;;;;;;;;AAYA;;;;;;;AAOA;;;;;AAIA;;;;;AFvBJ","sources":["src/sass/main.scss","src/sass/base/vars.scss","src/sass/components/menu.scss"],"sourcesContent":["@import './components/menu.scss';\r\n@import './base/vars.scss';\r\n.header{\r\n    color: red;\r\n}",null,null],"names":[],"version":3,"file":"index.css.map","sourceRoot":"/__parcel_source_root/"}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../sass/base/vars.scss","../sass/components/footer.scss","footer.css"],"names":[],"mappings":"AACQ,wDAAA;AACA,6EAAA;ACAR;EACI,kBAAA;EACA,WAAA;EACA,WAAA;EACA,kBAAA;EACA,yBDFQ;ECGR,kBAAA;EACA,uBAAA;ACCJ;ADAI;EACI,eAAA;EACA,gBAAA;EACA,mBAAA;ACER","file":"footer.css"}

@@ -1,0 +1,153 @@
+@import url("https://fonts.cdnfonts.com/css/montserrat");
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+.homepage {
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+}
+@media (min-width: 1140px) {
+  .homepage {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+}
+.homepage__content {
+  padding: 40px 0;
+  background-size: contain;
+}
+@media (min-width: 1140px) {
+  .homepage__content {
+    width: 50%;
+  }
+}
+.homepage__title-container {
+  padding: 35px 0;
+  margin-bottom: 20px;
+  background-image: url("../images/homepage_bg-img.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #fff;
+}
+@media (min-width: 1140px) {
+  .homepage__title-container {
+    margin-bottom: 40px;
+    padding: 50px 0;
+  }
+}
+.homepage__title {
+  font-size: 36px;
+  font-family: "Pacifico";
+}
+@media (min-width: 1140px) {
+  .homepage__title {
+    font-size: 60px;
+  }
+}
+.homepage__established {
+  margin: 0 auto 30px;
+  padding: 5px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 12px;
+  font-weight: 700;
+  color: #fff;
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+}
+@media (min-width: 1140px) {
+  .homepage__established {
+    font-size: 16px;
+    margin-bottom: 50px;
+  }
+}
+.homepage__btn {
+  display: inline-block;
+  padding: 15px;
+  width: 80%;
+  max-width: 300px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: black;
+  background-color: white;
+  border-radius: 30px;
+  font-weight: 500;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+.homepage__btn:hover, .homepage__btn:focus {
+  color: #800000;
+  font-weight: 500;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  border: 2px solid #800000;
+}
+@media (min-width: 1140px) {
+  .homepage__btn {
+    letter-spacing: 2px;
+  }
+}
+.homepage__image-block {
+  padding-bottom: 50px;
+}
+@media (min-width: 1140px) {
+  .homepage__image-block {
+    width: 50%;
+  }
+}
+@media (min-width: 1140px) {
+  .homepage__top-block {
+    margin-top: -70px;
+  }
+}
+.homepage__top-img {
+  width: 270px;
+  height: 270px;
+  border-radius: 50%;
+}
+@media (min-width: 768px) {
+  .homepage__top-img {
+    width: 450px;
+    height: 450px;
+  }
+}
+@media (min-width: 1140px) {
+  .homepage__top-img {
+    width: 550px;
+    height: 550px;
+  }
+}
+.homepage__bottom-block {
+  margin-top: -110px;
+  margin-left: 100px;
+}
+@media (min-width: 1140px) {
+  .homepage__bottom-block {
+    margin-top: -210px;
+    margin-left: -300px;
+  }
+}
+.homepage__bottom-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+@media (min-width: 768px) {
+  .homepage__bottom-img {
+    width: 300px;
+    height: 300px;
+  }
+}
+@media (min-width: 1140px) {
+  .homepage__bottom-img {
+    width: 400px;
+    height: 400px;
+  }
+}/*# sourceMappingURL=homepage.css.map */

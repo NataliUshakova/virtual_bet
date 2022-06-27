@@ -1,0 +1,52 @@
+@import url("https://fonts.cdnfonts.com/css/montserrat");
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+.privacypolicy-content {
+  background: #ffffff;
+  width: 80%;
+  margin: 0 auto;
+  padding: 30px 15px;
+}
+@media (min-width: 1140px) {
+  .privacypolicy-content {
+    padding: 50px 70px;
+  }
+}
+.privacypolicy-content__header {
+  margin-bottom: 20px;
+  font-size: 24px;
+  text-align: center;
+  font-weight: 500;
+}
+@media (min-width: 1140px) {
+  .privacypolicy-content__header {
+    font-size: 32px;
+    margin-bottom: 40px;
+    text-align: left;
+  }
+}
+.privacypolicy-content__we {
+  font-family: "Pacifico";
+  margin-bottom: 20px;
+  font-size: 22px;
+  text-align: center;
+}
+@media (min-width: 1140px) {
+  .privacypolicy-content__we {
+    font-size: 32px;
+    margin-bottom: 40px;
+    text-align: left;
+  }
+}
+.privacypolicy-content__text {
+  text-align: justify;
+  line-height: 24px;
+}
+.privacypolicy-content__text:not(:last-child) {
+  margin-bottom: 20px;
+}
+@media (min-width: 1140px) {
+  .privacypolicy-content__text {
+    font-size: 24px;
+    line-height: 30px;
+  }
+}/*# sourceMappingURL=privacypolicy.css.map */
