@@ -18,12 +18,12 @@
   },
   "homepage": "https://github.com/NataliUshakova/virtual_bet#readme",
   "dependencies": {
-    "@parcel/transformer-posthtml": "^2.6.2",
+    "transformer-posthtml": "^2.6.2",
     "parcel": "^2.6.2",
     "posthtml-include": "^1.7.4"
   },
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.6.2",
+    "transformer-sass": "^2.6.2",
     "gh-pages": "^4.0.0",
     "posthtml-obfuscate": "^0.1.5"
   }

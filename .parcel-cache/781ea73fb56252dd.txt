@@ -1,8 +1,8 @@
-6015
+6014
 62C:\UAC\virtual_bet\node_modules\escape-string-regexp\readme.md133005466694813445 0
 52C:\UAC\virtual_bet\node_modules\braces\lib\expand.js133005529635679149 0
 56C:\UAC\virtual_bet\node_modules\lodash\fp\isEqualWith.js133007902140159238 0
-31C:\UAC\virtual_bet\package.json133007902412970816 0
+31C:\UAC\virtual_bet\package.json133007919082521801 0
 64C:\UAC\virtual_bet\node_modules\@parcel\packager-js\lib\utils.js133005466753905361 0
 52C:\UAC\virtual_bet\node_modules\yaml\browser\util.js133005466760108771 0
 43C:\UAC\virtual_bet\src\sass\base\reset.scss133006171025118625 0
@@ -62,7 +62,7 @@
 112C:\UAC\virtual_bet\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm_bg.wasm133005466786917051 0
 48C:\UAC\virtual_bet\node_modules\term-size\vendor133005466710481542 1
 56C:\UAC\virtual_bet\node_modules\lodash\_baseMergeDeep.js133007902125339638 0
-23C:\UAC\virtual_bet\dist133007904051776115 1
+23C:\UAC\virtual_bet\dist133007919200501742 1
 49C:\UAC\virtual_bet\node_modules\readdirp\index.js133005529634671831 0
 29C:\UAC\virtual_bet\src\images133005808694853196 1
 63C:\UAC\virtual_bet\node_modules\htmlnano\docs\package-lock.json133005466763360073 0
@@ -82,7 +82,7 @@
 28C:\UAC\virtual_bet\README.md133005384265767156 0
 58C:\UAC\virtual_bet\node_modules\@parcel\transformer-js\src133005466734158185 1
 44C:\UAC\virtual_bet\src\css\privacypolicy.css133007889498090190 0
-22C:\UAC\virtual_bet\src133005813111256406 1
+22C:\UAC\virtual_bet\src133007907768530822 1
 65C:\UAC\virtual_bet\node_modules\@jridgewell\trace-mapping\LICENSE133005466690056166 0
 42C:\UAC\virtual_bet\node_modules\nullthrows133005466722698843 1
 53C:\UAC\virtual_bet\node_modules\gh-pages\node_modules133007902110804085 1
@@ -106,9 +106,6 @@
 56C:\UAC\virtual_bet\node_modules\terser\tools\terser.d.ts133005466766411906 0
 50C:\UAC\virtual_bet\node_modules\yaml\types\omap.js133005466724444193 0
 36C:\UAC\virtual_bet\src\contacts.html133005738484609921 0
-63C:\UAC\virtual_bet\node_modules\type-fest\ts41\pascal-case.d.ts133005466739124900 0
-64C:\UAC\virtual_bet\node_modules\@parcel\transformer-html\LICENSE133005466726398950 0
-25C:\UAC\virtual_bet\src\js133005474251451632 1
 63C:\UAC\virtual_bet\node_modules\type-fest\source\utilities.d.ts133005466752429309 0
 51C:\UAC\virtual_bet\node_modules\lodash\fp\divide.js133007902135333682 0
 46C:\UAC\virtual_bet\node_modules\lodash\pick.js133007902144656451 0
@@ -310,7 +307,11 @@
 54C:\UAC\virtual_bet\node_modules\lodash\fp\identical.js133007902138639878 0
 46C:\UAC\virtual_bet\node_modules\@parcel\fs\lib133005466761315541 1
 38C:\UAC\virtual_bet\src\css\aboutus.css133007892709344678 0
-41C:\UAC\virtual_bet\dist\logo.cd13699a.svg133007889780793919 0
+36C:\UAC\virtual_bet\src\css\reset.css133007889497990464 0
+75C:\UAC\virtual_bet\node_modules\lmdb\node_modules\node-addon-api\LICENSE.md133005466758014375 0
+70C:\UAC\virtual_bet\node_modules\caniuse-lite\data\features\download.js133005466805238041 0
+66C:\UAC\virtual_bet\node_modules\type-fest\source\partial-deep.d.ts133005466737479301 0
+41C:\UAC\virtual_bet\dist\logo.cd13699a.svg133007919200042957 0
 48C:\UAC\virtual_bet\node_modules\p-try\index.d.ts133007902116164181 0
 54C:\UAC\virtual_bet\node_modules\picomatch\lib\utils.js133005529635798813 0
 69C:\UAC\virtual_bet\node_modules\utility-types\dist\utility-types.d.ts133005466732093713 0
@@ -343,10 +344,6 @@
 64C:\UAC\virtual_bet\node_modules\lmdb\dependencies\lmdb\libraries133005466708676356 1
 63C:\UAC\virtual_bet\node_modules\caniuse-lite\data\regions\PA.js133005466819689380 0
 48C:\UAC\virtual_bet\src\css\privacypolicy.css.map133007889498090190 0
-36C:\UAC\virtual_bet\src\css\reset.css133007889497990464 0
-75C:\UAC\virtual_bet\node_modules\lmdb\node_modules\node-addon-api\LICENSE.md133005466758014375 0
-70C:\UAC\virtual_bet\node_modules\caniuse-lite\data\features\download.js133005466805238041 0
-66C:\UAC\virtual_bet\node_modules\type-fest\source\partial-deep.d.ts133005466737479301 0
 58C:\UAC\virtual_bet\node_modules\lodash\fp\findLastIndex.js133007902137098439 0
 58C:\UAC\virtual_bet\node_modules\nullthrows\nullthrows.d.ts133005466719856454 0
 59C:\UAC\virtual_bet\node_modules\weak-lru-cache\package.json133005466709374492 0
@@ -793,6 +790,7 @@
 60C:\UAC\virtual_bet\node_modules\svgo\plugins\_collections.js133005466711967552 0
 63C:\UAC\virtual_bet\node_modules\caniuse-lite\data\regions\AZ.js133005466756727811 0
 40C:\UAC\virtual_bet\node_modules\mdn-data133005466740311727 1
+50C:\UAC\virtual_bet\node_modules\lodash\fp\sumBy.js133007902148697922 0
 54C:\UAC\virtual_bet\node_modules\to-regex-range\LICENSE133005529634851346 0
 41C:\UAC\virtual_bet\node_modules\minimatch133007902118208706 1
 67C:\UAC\virtual_bet\node_modules\fs-extra\lib\copy-sync\copy-sync.js133007902121829033 0
@@ -1361,6 +1359,7 @@
 74C:\UAC\virtual_bet\node_modules\@swc\helpers\src\_wrap_async_generator.mjs133005466796202210 0
 52C:\UAC\virtual_bet\node_modules\lodash\_arrayPush.js133007902121809135 0
 48C:\UAC\virtual_bet\node_modules\readdirp\LICENSE133005529634482336 0
+63C:\UAC\virtual_bet\node_modules\type-fest\ts41\pascal-case.d.ts133005466739124900 0
 48C:\UAC\virtual_bet\node_modules\mdn-data\LICENSE133005466693477020 0
 75C:\UAC\virtual_bet\node_modules\caniuse-lite\data\features\css-image-set.js133005466796182272 0
 72C:\UAC\virtual_bet\node_modules\caniuse-lite\data\features\word-break.js133005466827518437 0
@@ -2635,7 +2634,7 @@
 47C:\UAC\virtual_bet\node_modules\lodash\mixin.js133007902142920387 0
 50C:\UAC\virtual_bet\node_modules\lodash\multiply.js133007902142980218 0
 56C:\UAC\virtual_bet\node_modules\lodash\fp\isArrayLike.js133007902139846618 0
-42C:\UAC\virtual_bet\dist\privacypolicy.html133007904051566683 0
+42C:\UAC\virtual_bet\dist\privacypolicy.html133007919200052946 0
 46C:\UAC\virtual_bet\node_modules\lodash\next.js133007902143109933 0
 79C:\UAC\virtual_bet\node_modules\@swc\helpers\lib\_class_private_field_update.js133005466745807027 0
 45C:\UAC\virtual_bet\node_modules\lodash\now.js133007902143199632 0
@@ -2883,6 +2882,7 @@
 57C:\UAC\virtual_bet\node_modules\is-binary-path\index.d.ts133005529634651884 0
 73C:\UAC\virtual_bet\node_modules\@parcel\optimizer-css\src\CSSOptimizer.js133005466739364263 0
 52C:\UAC\virtual_bet\node_modules\lodash\_baseHasIn.js133007902124142840 0
+49C:\UAC\virtual_bet\node_modules\async\allLimit.js133007902118986637 0
 54C:\UAC\virtual_bet\node_modules\lodash\_baseIndexOf.js133007902124182733 0
 54C:\UAC\virtual_bet\node_modules\lodash\_baseInRange.js133007902124272529 0
 68C:\UAC\virtual_bet\node_modules\dom-serializer\lib\foreignNames.d.ts133005464806912096 0
@@ -3359,7 +3359,6 @@
 63C:\UAC\virtual_bet\node_modules\caniuse-lite\data\regions\CG.js133005466778818722 0
 53C:\UAC\virtual_bet\node_modules\lodash\fp\subtract.js133007902148638084 0
 48C:\UAC\virtual_bet\node_modules\lodash\fp\sum.js133007902148667999 0
-50C:\UAC\virtual_bet\node_modules\lodash\fp\sumBy.js133007902148697922 0
 68C:\UAC\virtual_bet\node_modules\lodash\fp\symmetricDifferenceWith.js133007902148817607 0
 74C:\UAC\virtual_bet\node_modules\css-tree\lib\definition-syntax\generate.js133005466762302912 0
 57C:\UAC\virtual_bet\node_modules\chokidar\lib\constants.js133005529634681805 0
@@ -4297,7 +4296,7 @@
 69C:\UAC\virtual_bet\node_modules\cosmiconfig\dist\getPropertyByPath.js133005466710491503 0
 73C:\UAC\virtual_bet\node_modules\cosmiconfig\dist\getPropertyByPath.js.map133005466733220693 0
 57C:\UAC\virtual_bet\node_modules\cosmiconfig\dist\index.js133005466711668355 0
-37C:\UAC\virtual_bet\dist\contacts.html133007904051566683 0
+37C:\UAC\virtual_bet\dist\contacts.html133007919200052946 0
 61C:\UAC\virtual_bet\node_modules\cosmiconfig\dist\index.js.map133005466734956063 0
 59C:\UAC\virtual_bet\node_modules\cosmiconfig\dist\loaders.js133005466712715551 0
 62C:\UAC\virtual_bet\node_modules\cosmiconfig\dist\readFile.d.ts133005466752040349 0
@@ -4331,7 +4330,7 @@
 80C:\UAC\virtual_bet\node_modules\caniuse-lite\data\features\picture-in-picture.js133005466821474605 0
 45C:\UAC\virtual_bet\node_modules\clone\LICENSE133005466712775397 0
 47C:\UAC\virtual_bet\node_modules\clone\README.md133005466711728193 0
-48C:\UAC\virtual_bet\dist\bg-contacts.67823337.jpg133007889786967400 0
+48C:\UAC\virtual_bet\dist\bg-contacts.67823337.jpg133007919200382070 0
 61C:\UAC\virtual_bet\node_modules\chrome-trace-event\CHANGES.md133005466695830723 0
 55C:\UAC\virtual_bet\node_modules\chrome-trace-event\dist133005466699520852 1
 62C:\UAC\virtual_bet\node_modules\chrome-trace-event\LICENSE.txt133005466702672418 0
@@ -4436,7 +4435,7 @@
 63C:\UAC\virtual_bet\node_modules\caniuse-lite\data\regions\IT.js133005466811640911 0
 63C:\UAC\virtual_bet\node_modules\caniuse-lite\data\regions\JM.js133005466811680807 0
 63C:\UAC\virtual_bet\node_modules\caniuse-lite\data\regions\JP.js133005466811720693 0
-46C:\UAC\virtual_bet\dist\bg_circle.2ba63ab0.png133007889785730720 0
+46C:\UAC\virtual_bet\dist\bg_circle.2ba63ab0.png133007919200052946 0
 52C:\UAC\virtual_bet\node_modules\async\concatLimit.js133007902122816387 0
 63C:\UAC\virtual_bet\node_modules\caniuse-lite\data\regions\KP.js133005466812368955 0
 63C:\UAC\virtual_bet\node_modules\caniuse-lite\data\regions\KY.js133005466812428803 0
@@ -4591,7 +4590,7 @@
 76C:\UAC\virtual_bet\node_modules\caniuse-lite\data\features\css-gencontent.js133005466795065336 0
 75C:\UAC\virtual_bet\node_modules\caniuse-lite\data\features\css-gradients.js133005466795234824 0
 80C:\UAC\virtual_bet\node_modules\caniuse-lite\data\features\css-grid-animation.js133005466795274698 0
-48C:\UAC\virtual_bet\dist\burger-menu.682b88ff.svg133007889780783948 0
+48C:\UAC\virtual_bet\dist\burger-menu.682b88ff.svg133007919200042957 0
 71C:\UAC\virtual_bet\node_modules\@swc\helpers\lib\_async_to_generator.js133005466722579165 0
 75C:\UAC\virtual_bet\node_modules\caniuse-lite\data\features\css-hyphenate.js133005466795883064 0
 83C:\UAC\virtual_bet\node_modules\caniuse-lite\data\features\css-image-orientation.js133005466796082532 0
@@ -4854,7 +4853,6 @@
 59C:\UAC\virtual_bet\node_modules\balanced-match\package.json133007902115944778 0
 56C:\UAC\virtual_bet\node_modules\balanced-match\README.md133007902118178793 0
 66C:\UAC\virtual_bet\node_modules\balanced-match\.github\FUNDING.yml133007902118547804 0
-49C:\UAC\virtual_bet\node_modules\async\allLimit.js133007902118986637 0
 50C:\UAC\virtual_bet\node_modules\async\allSeries.js133007902119565083 0
 49C:\UAC\virtual_bet\node_modules\async\anyLimit.js133007902120313088 0
 75C:\UAC\virtual_bet\node_modules\@parcel\utils\test\input\config\config.json133005466782229589 0
@@ -4989,14 +4987,14 @@
 53C:\UAC\virtual_bet\node_modules\@trysound\sax\LICENSE133005466696000269 0
 55C:\UAC\virtual_bet\node_modules\@trysound\sax\README.md133005466705484907 0
 56C:\UAC\virtual_bet\node_modules\@trysound\sax\lib\sax.js133005466699690403 0
-36C:\UAC\virtual_bet\dist\aboutus.html133007904051556707 0
+36C:\UAC\virtual_bet\dist\aboutus.html133007919200052946 0
 44C:\UAC\virtual_bet\node_modules\@swc\helpers133005466779885857 1
 48C:\UAC\virtual_bet\node_modules\@swc\helpers\lib133005466778110617 1
 52C:\UAC\virtual_bet\node_modules\@swc\helpers\scripts133005466779437061 1
 48C:\UAC\virtual_bet\node_modules\@swc\helpers\src133005466796331863 1
 73C:\UAC\virtual_bet\node_modules\@swc\helpers\src\_array_like_to_array.mjs133005466780264843 0
 70C:\UAC\virtual_bet\node_modules\@swc\helpers\src\_array_with_holes.mjs133005466780514178 0
-45C:\UAC\virtual_bet\dist\bg-about.47e3eb9d.jpg133007889787107024 0
+45C:\UAC\virtual_bet\dist\bg-about.47e3eb9d.jpg133007919200481789 0
 65C:\UAC\virtual_bet\node_modules\@parcel\core\lib\applyRuntimes.js133005466755710529 0
 77C:\UAC\virtual_bet\node_modules\@swc\helpers\src\_assert_this_initialized.mjs133005466781242230 0
 56C:\UAC\virtual_bet\node_modules\@parcel\transformer-json133005466721661624 1
@@ -5345,6 +5343,7 @@
 74C:\UAC\virtual_bet\node_modules\@parcel\transformer-image\lib\loadSharp.js133005466730448112 0
 79C:\UAC\virtual_bet\node_modules\@parcel\transformer-image\lib\validateConfig.js133005466732163525 0
 60C:\UAC\virtual_bet\node_modules\@parcel\transformer-html\lib133005466732083738 1
+64C:\UAC\virtual_bet\node_modules\@parcel\transformer-html\LICENSE133005466726398950 0
 74C:\UAC\virtual_bet\node_modules\@parcel\core\lib\requests\TargetRequest.js133005466795903008 0
 69C:\UAC\virtual_bet\node_modules\@parcel\transformer-html\node_modules133005466680932732 1
 69C:\UAC\virtual_bet\node_modules\@parcel\transformer-html\package.json133005466734178132 0
@@ -5983,23 +5982,23 @@
 45C:\UAC\virtual_bet\dist\bg-about.bde1d753.jpg133007890054242395 0
 48C:\UAC\virtual_bet\dist\bg-contacts.4c8ac8d3.jpg133007890054232417 0
 46C:\UAC\virtual_bet\dist\bg_circle.4f5764a6.png133007890054222451 0
-47C:\UAC\virtual_bet\dist\bottom_img.c0b56813.jpg133007889787087101 0
-57C:\UAC\virtual_bet\dist\contacts-bottom-vawe.44cb764a.svg133007889780793919 0
+47C:\UAC\virtual_bet\dist\bottom_img.c0b56813.jpg133007919200471812 0
+57C:\UAC\virtual_bet\dist\contacts-bottom-vawe.44cb764a.svg133007919200042957 0
 57C:\UAC\virtual_bet\dist\contacts-bottom-vawe.cccddad0.svg133007890054222451 0
 27C:\UAC\virtual_bet\dist\css133007889498000430 1
-52C:\UAC\virtual_bet\dist\homepage_bg-img.62609740.png133007889785730720 0
+52C:\UAC\virtual_bet\dist\homepage_bg-img.62609740.png133007919200052946 0
 52C:\UAC\virtual_bet\dist\homepage_bg-img.e0f753b2.png133007890054222451 0
-34C:\UAC\virtual_bet\dist\index.html133007904051566683 0
+34C:\UAC\virtual_bet\dist\index.html133007919200042957 0
 41C:\UAC\virtual_bet\dist\logo.a2fb1553.svg133007890054222451 0
 49C:\UAC\virtual_bet\dist\privacypolicy.2810e0e5.js133007890054252363 0
 50C:\UAC\virtual_bet\dist\privacypolicy.37c82ea2.css133007890054242395 0
 54C:\UAC\virtual_bet\dist\privacypolicy.37c82ea2.css.map133007890054401967 0
-49C:\UAC\virtual_bet\dist\privacypolicy.975ef6c8.js133007889785730720 0
-53C:\UAC\virtual_bet\dist\privacypolicy.975ef6c8.js.map133007889786229386 0
+49C:\UAC\virtual_bet\dist\privacypolicy.975ef6c8.js133007919200062925 0
+53C:\UAC\virtual_bet\dist\privacypolicy.975ef6c8.js.map133007919200252412 0
 54C:\UAC\virtual_bet\dist\privacypolicy.a94c666a.css.map133007904051766145 0
-50C:\UAC\virtual_bet\dist\privacypolicy.f7626f62.css133007892728553283 0
-54C:\UAC\virtual_bet\dist\privacypolicy.f7626f62.css.map133007892728623093 0
-44C:\UAC\virtual_bet\dist\top_img.607e0c7b.jpg133007889787027238 0
+50C:\UAC\virtual_bet\dist\privacypolicy.f7626f62.css133007919200062925 0
+54C:\UAC\virtual_bet\dist\privacypolicy.f7626f62.css.map133007919200252412 0
+44C:\UAC\virtual_bet\dist\top_img.607e0c7b.jpg133007919200431916 0
 44C:\UAC\virtual_bet\dist\top_img.6bef269c.jpg133007890054242395 0
 43C:\UAC\virtual_bet\dist\css\aboutus.min.css133007892709344678 0
 44C:\UAC\virtual_bet\dist\css\contacts.min.css133007889498090190 0
